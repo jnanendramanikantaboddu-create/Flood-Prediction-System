@@ -15,3 +15,9 @@ C) Project Workflow :
 3. Model Building :Trained a Random Forest Classifier to identify patterns in rainfall intensity across 12 months.
 4. Saving Model :Exported the trained brain as flood_model.pkl for real-time use.
 5. Web Deployment :Built a Flask interface (app.py) where users can input rainfall data to get an instant prediction.
+
+## 🎥 Project Demo Video
+
+Due to GitHub preview limitations, please download the demo video using the link below:
+
+👉 [Download and Watch Demo Video](./demo_video.mp4)
