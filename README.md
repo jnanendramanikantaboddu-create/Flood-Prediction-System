@@ -20,25 +20,40 @@ https://github.com/jnanendramanikantaboddu-create/Flood-Prediction-System/raw/ma
 4. Project Structure
 
 Flood-Prediction-System/
+
 │
+
 ├── data/
+
 │   └── flood.csv
+
 │
+
 ├── static/
+
 │   └── style.css
+
 │
+
 ├── templates/
+
 │   └── index.html
+
 │
+
 ├── app.py
+
 ├── train_model.py
+
 ├── flood_model.pkl
+
 ├── Flood_Prediction_Model.ipynb
+
 ├── requirements.txt
+
 ├── demo_video.mp4
+
 └── README.md
-
-
 
 5. Team Details
    
@@ -196,6 +211,7 @@ The Road Ahead
 •	☁️ Cloud Deployment: Moving from local hosting to AWS or Azure for global availability.
 
 •	🧠 Deep Learning: Implementing LSTMs (Long Short-Term Memory) to better handle time-series weather data.
+
 
 
 
